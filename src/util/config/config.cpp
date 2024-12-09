@@ -502,11 +502,11 @@ namespace dxvk {
        and The Sims Castaway Stories             */
     { R"(\\(Sims2.*|TS2BodyShop|SimsLS|SimsPS|SimsCS)\.exe$)", {{
       { "d3d9.customVendorId",              "10de" },
-      { "d3d9.customDeviceId",              "0091" },
-      { "d3d9.customDeviceDesc",            "GeForce 7800 GTX" },
+      { "d3d9.customDeviceId",              "1c03" },
+      { "d3d9.customDeviceDesc",            "GeForce 1060 GTX" },
       { "d3d9.disableA8RT",                 "True" },
       { "d3d9.supportX4R4G4B4",             "False" },
-      { "d3d9.maxAvailableMemory",          "2048" },
+      { "d3d9.maxAvailableMemory",          "6029" },
       { "d3d9.memoryTrackTest",             "True" },
       { "d3d9.cachedDynamicBuffers",        "True" },
     }} },
